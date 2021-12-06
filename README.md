@@ -1,3 +1,3 @@
-# Blue-School---Gestão-Escolar
+# Blue-School-Gestão Escolar
 Sistema de Gestão Escolar
 
